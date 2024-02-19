@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, conducted by a team of 3 members from TUNSA AI, focuses on enhancing handwritten digit recognition through the implementation of a custom Convolutional Neural Network (CNN). Leveraging a combination of state-of-the-art machine learning libraries and techniques, the project aims to improve model robustness and accuracy for digit classification tasks.
+This project focuses on enhancing handwritten digit recognition through the implementation of a custom Convolutional Neural Network (CNN). Leveraging a combination of state-of-the-art machine learning libraries and techniques, it aimed to improve model robustness and accuracy for digit classification tasks.
 
 ## Project Scope
 
-The project spanned from March 26, 2022, to March 27, 2022, with an effort towards data preprocessing, model development, training, and evaluation.
+The project spanned from March 26, 2022, to March 27, 2022, and was conducted by a subteam of 3 members from the Tunisian Space Association (TUNSA)'s AI team. It involved data preprocessing, model development, training, and evaluation phases.
 
 ## Technical Details
 
