@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project focuses on enhancing handwritten digit recognition through the implementation of a custom Convolutional Neural Network (CNN). Leveraging a combination of state-of-the-art machine learning libraries and techniques, it aims to improve model robustness and accuracy for digit classification tasks.
+This project focuses on enhancing handwritten digit recognition through the implementation of a custom Convolutional Neural Network (CNN). Leveraging a combination of state-of-the-art machine learning libraries and techniques, it aimed to improve model robustness and accuracy for digit classification tasks.
 
 ## Project Scope
 
